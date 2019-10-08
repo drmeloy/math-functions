@@ -143,7 +143,7 @@ export function multiplyAnyArray(dynamicArray) {
     
     
 
-    return [multTotal, `The numbers ${dynamicArray.foreach} have a product of ${multTotal}.`];
+    return [multTotal, `The numbers ${dynamicArray} have a product of ${multTotal}.`];
 
 }
 
